@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "YATB (Yet Another Tech Blog) is born"
+date:   2015-04-27 16:48:41
+categories: new blog
+---
+This is a new blog for random tech information that I feel is worth sharing with the world. This is just one more blog amongst a vast sea of tech blogs out there; I will try to make the original content I post here relevant and useful, and unique! I will also occasionally reference other particularly helpful blogs or articles as well, if I feel their content compelling enough to warrant sharing here.
+
+If you have any questions, comments, or requests for future posts or this blog in general, please feel free to message me at the contact info provided at the bottom of this site.
+
+Thanks for you interest!
+
+/Bob
