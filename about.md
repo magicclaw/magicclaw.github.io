@@ -1,11 +1,23 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
+banner_image: sample-banner-image-2.jpg
+banner_image_alt: About me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Bob Scott. I am a Software Architect / Software Engineer by day, family man and jeep enthusiast by night / weekend.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I enjoy working on either end of the tech stack, whether RESTful web services or rich web front ends. All programming languages are welcome.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Contact me
+
+Say `hi` at bob@robertscottconsulting.com or find
+me on the social networks shown below…
+
+---
+
+{% include social.html %}
+
+[pw]: http://processwire.com
+[jekyll]: http://jekyllrb.com
